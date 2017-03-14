@@ -10,4 +10,4 @@ coverage: install
 	go test -cover $(shell glide novendor)
 
 build: install
-	go build -v -o ./build/mechanic-store
+	go build -v -o ./build/ship-it
