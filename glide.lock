@@ -1,0 +1,10 @@
+hash: 40ebf343757d8752dec38a2f8ee211b1e44f5b39256cc7d5f413c83a0a76d987
+updated: 2017-03-14T19:22:54.223152363+11:00
+imports:
+- name: github.com/onsi/ginkgo
+  version: 462326b1628e124b23f42e87a8f2750e3c4e2d24
+  subpackages:
+  - ginkgo
+- name: github.com/onsi/gomega
+  version: a78ae492d53aad5a7a232d0d0462c14c400e3ee7
+testImports: []
